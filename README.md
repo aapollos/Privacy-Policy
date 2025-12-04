@@ -1,4 +1,4 @@
 # Privacy Policy
-Last updated: December 4, 2025
+## Last updated: December 4, 2025
   
 AmIRecyclable-OHSWA(“we”) is committed to protecting your privacy. This app may request access to your device’s camera and location solely to support in-app features. Camera access is used only to capture photos when you choose to do so; we do not store camera data, and we do not transmit or share camera data with any third parties. Location access is used to ensure accurate information is provided to you, and your location data is stored exclusively on your device, never uploaded to our servers or shared with any external parties. We do not sell, share, or use your camera or location information for advertising, analytics, or tracking. You may manage or revoke these permissions at any time through your device settings, though certain features may no longer function. We may update this Privacy Policy periodically, and changes will be reflected in the updated date. If you have any questions, please contact us at ohswa@ohswa.org.
