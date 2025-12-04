@@ -2,6 +2,8 @@
 
 **Last Updated:** December 4, 2025
 
+> **Note:** This is a template privacy policy. Please replace placeholder information (such as contact details in Section 11) with your actual company information before deployment.
+
 This Privacy Policy describes how we collect, use, disclose, and protect your information when you use our mobile application (the "App"). We are committed to protecting your privacy and ensuring transparency about our data practices.
 
 ## 1. Information We Collect
